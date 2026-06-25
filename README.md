@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:7C3AED,100:EC4899&height=190&section=header&text=Muhammad%20Danish%20Zulkafli&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Creative%20Digital%20Builder&descAlignY=60&descSize=15" />
+# 👋 Hi, I'm Muhammad Danish Zulkafli
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=I+build+websites%2C+systems%2C+and+digital+experiences.;WordPress+%7C+PHP+%7C+JavaScript+%7C+AI+%7C+Data+Science;Turning+ideas+into+useful%2C+creative%2C+and+interactive+solutions.;Always+learning%2C+building%2C+and+improving." alt="Typing SVG" />
+### Web Developer | WordPress & PHP Developer | AI & Data Science Enthusiast | Creative Digital Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+websites%2C+systems%2C+and+digital+experiences.;WordPress+%7C+PHP+%7C+JavaScript+%7C+AI+%7C+Data+Science;Turning+ideas+into+useful%2C+creative%2C+and+interactive+solutions.;Always+learning%2C+building%2C+and+improving." alt="Typing SVG" />
 
 <br/>
 
