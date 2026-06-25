@@ -292,16 +292,6 @@ Human-centered digital platforms
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DanishZulkafli&theme=radical&no-frame=false&no-bg=false&margin-w=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
