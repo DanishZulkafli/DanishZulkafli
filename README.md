@@ -1,26 +1,338 @@
-# 💫 About Me: 
-💼 I’m currently working on WEBMORE'S DIGITAL MARKETING<br>💻 Expertise: HTML5, CSS3, JavaScript, Java, PHP, Python<br>🌐 Frontend: HTML5, CSS3<br>🗄️ Backend: Node.js<br>📱 Mobile App: Flutter<br> 🕸 AI/ML: Weka<br>📦 Databases: MySQL<br>🚀 Deployment: AWS<br>🎮 Game Engines: Unity<br>🎨 UI/UX: Ps, Pr, Ai, Xd, Id, Figma, Woodmart, Liquid Hub, Woodmart, Bootstrap, Spline<br>🌱 Currently exploring: Unity, Spline, Node.js, FLutter, Ai, AWS<br>🔧 Software: Wordpress, Elementor, Divi, Be Builder, Visual Studio, Netbeans IDE, Anaconda, Arduino IDE, Linux, Laravel
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:7C3AED,100:EC4899&height=190&section=header&text=Muhammad%20Danish%20Zulkafli&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Creative%20Digital%20Builder&descAlignY=60&descSize=15" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xDannyx#7525) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danishzulkaflii) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@danishzulkafli) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DanishZulkafli) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=I+build+websites%2C+systems%2C+and+digital+experiences.;WordPress+%7C+PHP+%7C+JavaScript+%7C+AI+%7C+Data+Science;Turning+ideas+into+useful%2C+creative%2C+and+interactive+solutions.;Always+learning%2C+building%2C+and+improving." alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danishzulkafli&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=danishzulkafli&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danishzulkafli&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Zulkafli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishzulkafli)
+[![Instagram](https://img.shields.io/badge/Instagram-danishzulkaflii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danishzulkaflii)
+[![YouTube](https://img.shields.io/badge/YouTube-Danish%20Zulkafli-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@danishzulkafli)
+[![CodePen](https://img.shields.io/badge/CodePen-DanishZulkafli-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/DanishZulkafli)
+[![Email](https://img.shields.io/badge/Email-danishzulkafli174%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishzulkafli174@gmail.com)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
 
+---
 
+# 💫 About Me
 
+```yaml
+Name: Muhammad Danish Zulkafli
+Role: Web Developer
+Location: Kuala Lumpur, Malaysia
+Focus: Web Development, WordPress, PHP, JavaScript, AI, Data Science
+Currently Exploring: Node.js, AWS, Flutter, Unity, Spline, Generative AI
+Interest: Building useful, creative, interactive, and community-focused digital systems
+```
 
+💼 I’m a **Web Developer** with experience in building, maintaining, and improving websites, web systems, landing pages, and digital platforms.  
 
-  
+🌐 I work with **WordPress, PHP, HTML, CSS, JavaScript, MySQL, Elementor, Laravel, hosting, deployment, and website troubleshooting**.  
 
+🧠 I’m also exploring **Generative AI, Large Language Models, Data Science, AI/ML, interactive dashboards, and intelligent web experiences**.  
 
+🎨 I enjoy combining **development, design, UI/UX, creativity, and problem-solving** to build digital solutions that are useful and engaging.  
+
+🚀 My goal is to continuously improve as a developer and build projects that can contribute to real people, communities, and businesses.
+
+---
+
+# 🎯 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+## 💻 Web Development
+- WordPress website development
+- Custom website pages and modules
+- PHP, MySQL, HTML, CSS, JavaScript
+- Responsive frontend layouts
+- Landing pages and dashboard interfaces
+- Website performance improvement
+- Website bug fixing and troubleshooting
+
+</td>
+<td width="50%">
+
+## 🛠️ Website Operations
+- Website maintenance
+- Plugin and theme issue fixing
+- Hosting and deployment support
+- Content updates and restructuring
+- SEO-ready website structure
+- Website migration and stability checking
+- System testing and user flow checking
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+## 🧠 AI & Data
+- Generative AI exploration
+- AI-powered web project ideas
+- Data analytics and visualization
+- Machine learning fundamentals
+- AI-assisted user experience
+- Research-based prototype development
+- Smart recommendation system ideas
+
+</td>
+<td width="50%">
+
+## 🎨 UI/UX & Creative
+- UI cleanup and layout improvement
+- Figma and Adobe creative tools
+- Interactive frontend concepts
+- Spline and visual web experiments
+- User experience improvement
+- Portfolio-ready project design
+- Creative digital product ideas
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧩 Current Focus
+
+```text
+Building better websites.
+Creating more meaningful GitHub portfolio projects.
+Exploring AI-powered digital experiences.
+Improving backend, deployment, and system workflow skills.
+Combining research, creativity, design, and practical development.
+```
+
+---
+
+# 🧰 Tech Stack
+
+## 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+## 🗄️ Backend & Database
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+## 🧩 CMS & Website Tools
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=flat&logo=apache&logoColor=white)
+
+## 🤖 AI, Data & Programming
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Weka](https://img.shields.io/badge/Weka-FFB000?style=flat&logoColor=white)
+
+## ☁️ Deployment & Productivity Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=flat&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+
+## 🎨 Design & Creative Tools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=adobexd&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity&logoColor=white)
+
+---
+
+# 🚀 Featured GitHub Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🤖 AI Career Roadmap Generator
+Personalized tech career roadmap generator with skill-gap analysis, roadmap timeline, learning duration, portfolio project ideas, and AI-style recommendation.
+
+**Tech:** HTML, CSS, JavaScript, LocalStorage
+
+</td>
+<td width="50%">
+
+## 🧠 MindMood Studio Pro
+Mood journal and self-care tracker with wellness score, stress level, energy level, sleep tracking, triggers, and AI-style wellbeing insights.
+
+**Tech:** HTML, CSS, JavaScript, LocalStorage
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+## 🍱 FoodWise Pro
+Smart meal planner with grocery list, nutrition tracking, weekly meal plan, food waste risk indicator, and meal plan quality score.
+
+**Tech:** HTML, CSS, JavaScript, LocalStorage
+
+</td>
+<td width="50%">
+
+## 🧩 SkillBridge
+Micro skill exchange platform where users can offer skills, request help, discover matches, earn points, and build community learning.
+
+**Tech:** HTML, CSS, JavaScript, LocalStorage
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+## 🏙️ CivicPulse Quest Pro
+Community impact mission tracker with mission generator, points, badges, rank system, weekly trend, and impact report.
+
+**Tech:** HTML, CSS, JavaScript, LocalStorage
+
+</td>
+<td width="50%">
+
+## 🔎 FindIt Pro
+Smart lost and found hub with AI-style matching, open/resolved cases, priority tracking, recovery score, and report export.
+
+**Tech:** HTML, CSS, JavaScript, LocalStorage
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📚 Education & Research
+
+🎓 **Doctor of Philosophy, Computer Science**  
+University of Malaya
+
+🎓 **Master of Data Science**  
+University of Malaya
+
+🎓 **Bachelor of Computer Science Software Development with Honours**  
+Universiti Sultan Zainal Abidin
+
+```text
+Research Interests:
+AI-driven web experiences
+Adaptive interfaces
+Explainable AI
+Data-driven user experience
+Machine learning applications
+Web usability improvement
+Recommendation systems
+Human-centered digital platforms
+```
+
+---
+
+# 🏅 Certifications & Learning
+
+- AI for All: From Basics to GenAI Practice
+- Python Programming Bootcamp
+- Foundations of Digital Marketing and E-commerce
+- Introduction to Data Analytics
+- Data Visualization for Data Analysis and Analytics
+
+---
+
+# 📝 Research & Writing Interests
+
+- Explainable Intrusion Detection Systems for SOC Alert Triage
+- AI-Driven Adaptive Interfaces for Enhanced User Engagement
+- Distributed Data Processing using AWS and HTCondor
+- Data analytics and prediction-based systems
+- AHP-based decision support systems
+- AI-assisted learning and recommendation systems
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DanishZulkafli&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishZulkafli&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishZulkafli&theme=highcontrast&hide_border=false&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DanishZulkafli&theme=radical&no-frame=false&no-bg=false&margin-w=8" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanishZulkafli&theme=high-contrast&hide_border=false" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
+---
+
+# 🤝 Let’s Connect
+
+```text
+Build with purpose.
+Improve with consistency.
+Learn without stopping.
+Create something useful.
+```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=DanishZulkafli&style=for-the-badge&color=38BDF8)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:0EA5E9&height=120&section=footer" />
+
+</div>
