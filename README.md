@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Muhammad Danish Zulkafli
 
-### Web Developer | WordPress & PHP Developer | AI & Data Science Enthusiast | Creative Digital Builder
+### Software Engineer | WordPress & PHP Developer | AI & Data Science Enthusiast | Creative Digital Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+websites%2C+systems%2C+and+digital+experiences.;WordPress+%7C+PHP+%7C+JavaScript+%7C+AI+%7C+Data+Science;Turning+ideas+into+useful%2C+creative%2C+and+interactive+solutions.;Always+learning%2C+building%2C+and+improving." alt="Typing SVG" />
 
