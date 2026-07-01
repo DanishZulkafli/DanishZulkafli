@@ -22,7 +22,7 @@
 
 ```yaml
 Name: Muhammad Danish Zulkafli
-Role: Web Developer
+Role: Software Engineer
 Location: Kuala Lumpur, Malaysia
 Focus: Web Development, WordPress, PHP, JavaScript, AI, Data Science
 Currently Exploring: Node.js, AWS, Flutter, Unity, Spline, Generative AI
